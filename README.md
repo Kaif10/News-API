@@ -1,12 +1,13 @@
 # News-App
-News App with Django
-Get yourself acquainted with the latest news using ths news scarping API.
+News App with Django.
+
+Get yourself acquainted with the latest news using ths News Scraping API.
 
 Use the web-app in your system:
 
-Clone the repo. 
+1. Clone the repo. 
 
-In the command prompt, open the directory of tha project and run:
+2. In the command prompt, open the directory of tha project and run:
 
 ```
 manage.py runserver

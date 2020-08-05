@@ -3,7 +3,7 @@ News App with Django.
 
 Get yourself acquainted with the latest news using ths News Scraping API.
 
-Use the web-app in your system:
+Use the web-app in your system(Make sure you have Django and Python installed and also make request for your own API key):
 
 1. Clone the repo. 
 
